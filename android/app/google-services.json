@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "145481521894",
+    "project_id": "x-pay-d8b43",
+    "storage_bucket": "x-pay-d8b43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145481521894:android:6ba7d94c46307680337927",
+        "android_client_info": {
+          "package_name": "com.example.x_pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145481521894-qr855rcpui1hsr8ggujlv7kgl25147nm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.x_pay",
+            "certificate_hash": "1a2a86a78b6aa82d05cbf79e33b28353ed020547"
+          }
+        },
+        {
+          "client_id": "145481521894-61qld02efb215pr85alggvtntpd64tmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3fBC3ccfcqtcEJ10FIRhseDXxWMta1fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145481521894-61qld02efb215pr85alggvtntpd64tmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
